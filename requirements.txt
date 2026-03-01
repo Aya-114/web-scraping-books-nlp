@@ -1,0 +1,14 @@
+# Data processing
+pandas>=2.0
+nltk>=3.8
+
+# Visualization
+matplotlib>=3.8
+seaborn>=0.13
+wordcloud>=1.8
+
+# Web scraping
+scrapy>=2.8
+
+# Notebook support
+jupyter>=1.0
