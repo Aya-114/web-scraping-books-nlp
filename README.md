@@ -2,7 +2,7 @@
 # 📚 Web Scraping Books + NLP Analysis 🤖
 
 🚀 **From Course to Real Project:**
-I transformed my skills from the **[Web Scraping in Python (Intermediate)]([Insert_Certificate_Link](https://www.datacamp.com/completed/statement-of-accomplishment/course/2a8c364131207333b552be5a77afed73b26a239b)** course on DataCamp into a real-world university project.
+I transformed my skills from the **[Web Scraping in Python (Intermediate)]([Insert_Certificate_Link](https://www.datacamp.com/completed/statement-of-accomplishment/course/2a8c364131207333b552be5a77afed73b26a239b))** course on DataCamp into a real-world university project.
 Built a **Python web scraper** to collect and analyze book data from the web, turning raw HTML into structured datasets and actionable insights.
 
 ---
